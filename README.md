@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/akashdhokchaule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashdhokchaule" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash-dhokchaule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-dhokchaule" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/akash-dhokchaule/100068835818693/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/akash-dhokchaule/100068835818693/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/people/akash-dhokchaule/100068835818693/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/Akash-Dhokchaule/100068835818693" height="30" width="40" /></a>
 <a href="https://instagram.com/akash.dhokchaule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.dhokchaule" height="30" width="40" /></a>
 </p>
 
